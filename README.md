@@ -49,7 +49,7 @@ My background in Physics gave me strong analytical skills and a deep understandi
 
 Developed a pipeline for the detection and recognition of car license plates utilizing the CCPD2019 dataset. The project involved image preprocessing, character segmentation, and reconstruction techniques.
 <br />
-<a href="https://github.com/lorebenucci/Car-Plate---Recognition.git">
+<a href="https://github.com/GiuseppeDaddario/Computer-Vision.git">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&height=20"/>
 </a>
 
@@ -60,7 +60,7 @@ Developed a pipeline for the detection and recognition of car license plates uti
 
 Implementation and analysis of GNN models for graph classification tasks. Specifically focused on model robustness under different label noise conditions, exploring how graph structures handle noisy data.
 <br />
-<a href="https://github.com/lorebenucci/GNN-on-noise.git">
+<a href="https://github.com/GiuseppeDaddario/Hackaton_DeepL.git">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&height=20"/>
 </a>
 
