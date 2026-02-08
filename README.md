@@ -50,7 +50,7 @@ My background in Physics gave me strong analytical skills and a deep understandi
 Developed a framework to explain AI toxicity predictions on the **Tox21 dataset**. The system uses a **Deep Graph Network (DGN)** as a predictor and a **Reinforcement Learning agent** that acts as a generator. The agent modifies molecular graphs (adding/removing atoms or bonds) to create **counterfactuals**: new molecules that reverse the original toxicity prediction while maximizing structural similarity. 
 
 <br />
-<a href="#">
+<a href="https://github.com/lorebenucci/RL_project.git">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&height=20"/>
 </a>
 <br />
