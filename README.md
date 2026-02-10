@@ -116,4 +116,6 @@ Configured and maintained a personal home-server for remote file management and 
 ## 📊 GitHub Stats
 
 ![Lore's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorebenucci&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorebenucci&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorebenucci&layout=compact)
+
+
