@@ -44,11 +44,20 @@ My background in Physics gave me strong analytical skills and a deep understandi
 
 ## 🛠 Selected Projects
 
+### 🧬 TCGA-THCA Transcriptome Analysis
+*R • PyTorch • Machine Learning • Bioinformatics • Explainable AI*
+
+Bridged statistical bioinformatics and deep learning to analyze Thyroid Carcinoma (TCGA-THCA) transcriptomic data. The pipeline includes Differential Expression Analysis (DEA) in R to identify significant genes, a Random Forest classifier (97% accuracy) interpreted via SHAP, and a Variational Autoencoder (VAE) built in PyTorch for latent space representation and unsupervised clustering.
+<br />
+<a href="https://github.com/lorebenucci/Bioinformatics_project">
+  <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&height=20"/>
+</a>
+<br />
+
 ### 🧪 MEG: Explainable AI for Molecular Toxicity
 *Graph Neural Networks • Reinforcement Learning • RDKit • Explainable AI*
 
 Developed a framework to explain AI toxicity predictions on the **Tox21 dataset**. The system uses a **Deep Graph Network (DGN)** as a predictor and a **Reinforcement Learning agent** that acts as a generator. The agent modifies molecular graphs (adding/removing atoms or bonds) to create **counterfactuals**: new molecules that reverse the original toxicity prediction while maximizing structural similarity. 
-
 <br />
 <a href="https://github.com/lorebenucci/RL_project.git">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&height=20"/>
@@ -63,7 +72,6 @@ Developed a pipeline for the detection and recognition of car license plates uti
 <a href="https://github.com/GiuseppeDaddario/Computer-Vision.git">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&height=20"/>
 </a>
-
 <br />
 
 ### 🕸️ Graph Neural Networks (GNN) for Classification
@@ -74,7 +82,6 @@ Implementation and analysis of GNN models for graph classification tasks. Specif
 <a href="https://github.com/GiuseppeDaddario/Hackaton_DeepL.git">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&height=20"/>
 </a>
-
 <br />
 
 ## 🛠️ Hardware & Hobby Projects
