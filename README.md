@@ -56,7 +56,7 @@ My background in Physics gave me strong analytical skills and a deep understandi
 
 Fully autonomous robot-assisted therapy system for children with ASD, built on a **TIAGo mobile manipulator** in Gazebo/ROS2. Integrates open-vocabulary perception and planning (EMPOWER, extended to multi-view 360° RGB-D), a voice dialogue module with per-child RDF-based memory and session scoring, and real-time gaze estimation + facial emotion recognition (Gaze-LLE/DINOv2 + EmotiEffLib) — all coordinated by a mission orchestrator with no human operator in the loop.
 <br />
-<a href="https://github.com/lorebenucci/hrai_sim">
+<a href="https://github.com/SamueleTomassacci/ElectiveAI">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&height=20"/>
 </a>
 <br />
