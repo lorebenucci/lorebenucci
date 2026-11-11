@@ -42,14 +42,20 @@ My background in Physics gave me strong analytical skills and a deep understandi
 
 <br />
 
+## 🔨 Currently Working On
+
+- Aligning representations of text fragments between retrievers and LLMs in RAG pipelines
+
+<br />
+
 ## 🛠 Selected Projects
 
 ### 🤖 Perceptive TIAGo: Gaze & Emotion-Driven Interaction for Autism Therapy
 *ROS2 • Python • LLM • Gazebo • HRI • Computer Vision*
 
-Developed a fully autonomous robot-assisted therapy system for children with Autism Spectrum Disorder, built on a **TIAGo mobile manipulator** in Gazebo simulation. The system integrates three cooperative ROS2 packages: an open-vocabulary **perception and planning module** (EMPOWER, extended to multi-view 360° RGB-D scanning and hardcoded-object support), a **voice dialogue module** with per-child RDF-based long-term memory and session scoring, and a real-time **gaze estimation and facial emotion recognition module** (Gaze-LLE/DINOv2 + EmotiEffLib). A mission orchestrator coordinates the full pipeline — from personalized activity proposal to object retrieval, adaptive child dialogue with attention recall and disengagement detection, and structured session reporting — with no human operator in the loop.
+Fully autonomous robot-assisted therapy system for children with ASD, built on a **TIAGo mobile manipulator** in Gazebo/ROS2. Integrates open-vocabulary perception and planning (EMPOWER, extended to multi-view 360° RGB-D), a voice dialogue module with per-child RDF-based memory and session scoring, and real-time gaze estimation + facial emotion recognition (Gaze-LLE/DINOv2 + EmotiEffLib) — all coordinated by a mission orchestrator with no human operator in the loop.
 <br />
-<a href="https://github.com/SamueleTomassacci/ElectiveAI">
+<a href="https://github.com/lorebenucci/hrai_sim">
   <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white&height=20"/>
 </a>
 <br />
