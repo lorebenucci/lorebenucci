@@ -45,6 +45,7 @@ My background in Physics gave me strong analytical skills and a deep understandi
 ## 🔨 Currently Working On
 
 - Aligning representations of text fragments between retrievers and LLMs in RAG pipelines
+- Motion-controlled live audio FX: wearable ESP32 sensors (ESP-NOW) feed PoE-powered control boxes that drive Ardour effects via OSC
 
 <br />
 
